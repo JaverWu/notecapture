@@ -1,0 +1,23 @@
+NoteCapture Binary Freeware License
+
+Copyright (c) 2026 NoteCapture contributors. All rights reserved.
+
+NoteCapture is distributed as freeware in binary form. You may download and
+use an unmodified copy of the official binary for lawful personal,
+educational, and non-commercial purposes at no charge.
+
+This repository does not grant a license to the source code. You may not
+claim authorship of NoteCapture, remove notices, sell the software, or
+redistribute modified or repackaged binaries without prior permission.
+When sharing NoteCapture, link to the official GitHub Releases page instead
+of re-uploading the DMG.
+
+Third-party components and referenced projects remain subject to their own
+licenses and copyright notices.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS
+USE.
