@@ -1,8 +1,11 @@
 # NoteCapture / 涂画录屏
 
-一款面向 Apple Silicon Mac 的免费录屏软件，强调轻量录制、实时标注和清晰的操作演示。
+一款面向 苹果芯片 Mac 的免费录屏软件，强调轻量录制、实时标注和清晰的操作演示。
+多种录制模式并且可以在录屏期间进行文字标注、涂鸦等等
+<img width="960" height="638" alt="image" src="https://github.com/user-attachments/assets/fc731141-2b1c-4cbb-91e4-b5dd99750e8f" />
+期待您的捐款赞助，助力开发更多软件！😭
+<img width="1304" height="1776" alt="IMG_20260919_190940" src="https://github.com/user-attachments/assets/d4ac5b0d-23e6-40c9-ad77-b0a420037e12" />
 
-> 当前仓库只提供官方编译的 DMG 安装包与使用说明，不公开源代码。NoteCapture 是免费软件，但不是开源软件。
 
 ## 下载
 
